@@ -1,10 +1,6 @@
-### Hi there 👋
-
-<!--
-**DMAN28/DMAN28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p>
-  <img src="">
+<img src="https://user-images.githubusercontent.com/93042669/182524299-18ec3875-aa25-479b-9aad-538baa0d3b83.png">
+
 </p>
 
 # Hi, I'm David Manriquez 👋
@@ -33,10 +29,10 @@ A Fullstack engineer that is driven and passionate to learn and grow🌱 in this
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=DMAN28&show_icons=true&theme=swift)">
+  <img src="https://github-readme-stats.vercel.app/api?username=DMAN28&theme=swift&show_icons=true)">
 </details>
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMAN28&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMAN28&heme=radical&show_icons=true">
 </details>
