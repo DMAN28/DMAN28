@@ -41,8 +41,10 @@ A Fullstack engineer that is driven and passionate to learn and grow🌱 in this
   <a align="left" href="https://github.com/DMAN28/supreme-portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=supreme-portfolio&theme=swift"></a><a align="right" href="https://github.com/DMAN28/turbo-spork" title="Guenthers-boat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=turbo-spork&theme=swift"></a>
 </p>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/DMAN28/super-duper-dollop" title="Command line Crypto app"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=super-duper-dollop&theme=swift"><a align="right" https://github.com/DMAN28/Spelling-Bee" title="Spelling-Bee"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=Spelling-Bee&theme=swift"></a>
+  <a align="left" href="https://github.com/DMAN28/super-duper-dollop" title="Command line Crypto app"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=super-duper-dollop&theme=swift"></a><a align="right" href="https://github.com/DMAN28/jimmy-clips" title="Guenthers-boat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=jimmy-clips&theme=swift"></a>
 </p>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/DMAN28/potential-carnival" title="Budget Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=potential-carnival&theme=swift"></a><a align="right" href="https://github.com/DMAN28/jimmy-clips" title="Guenthers-boat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=jimmy-clips&theme=swift"></a>
+  <a align="left" href="https://github.com/DMAN28/potential-carnival" title="Budget Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=potential-carnival&theme=swift"></a><a align="right" href="https://github.com/DMAN28/note-take" title="note-taker"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DMAN28&repo=note-taker&theme=swift"></a>
 </p>
+    
+
